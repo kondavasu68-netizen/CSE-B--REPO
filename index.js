@@ -1,2 +1,2 @@
-conlose.log("wel come new  aimlstudent");
-consloe.log("cse student");
+console.log("buds");
+console.log("cse student");
