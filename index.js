@@ -1,2 +1,2 @@
-conlose.log("wel come new  csestudent");
+conlose.log("wel come new  aimlstudent");
 consloe.log("cse student");
